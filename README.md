@@ -16,4 +16,4 @@ Object detection project for identifying cars in images using a deep learning mo
 - `car-detection-by-v11.ipynb`: Main notebook for analysis/model.
 
 ## 👤 Author
-Mena Nabil Samir
+Mena Nabil Samir 
